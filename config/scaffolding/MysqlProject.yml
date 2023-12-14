@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MysqlProject
+  gitServerName: KritikasGitHubAccount
+  gitUrl: https://github.com/KitNabber/MysqlProject
+  gitUsername: KitNabber
+  gitBranch: main
